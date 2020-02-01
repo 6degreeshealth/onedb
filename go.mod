@@ -1,4 +1,4 @@
-module github.com/EndFirstCorp/onedb
+module github.com/6degreeshealth/onedb
 
 go 1.13
 
