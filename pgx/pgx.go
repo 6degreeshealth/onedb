@@ -3,7 +3,7 @@ package pgx
 import (
 	"io"
 
-	"github.com/EndFirstCorp/onedb"
+	"github.com/6degreeshealth/onedb"
 	pgx "gopkg.in/jackc/pgx.v2"
 )
 
@@ -101,6 +101,8 @@ type Txer interface {
 	Status() int8
 	PGXQuerier
 }
+
+This bad line should fail compilation.
 
 type PGXQuerier interface {
 	querier

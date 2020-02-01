@@ -4,7 +4,7 @@ import (
 	sqllib "database/sql"
 	"io"
 
-	"github.com/EndFirstCorp/onedb"
+	"github.com/6degreeshealth/onedb"
 	_ "github.com/denisenkom/go-mssqldb"
 	_ "github.com/go-sql-driver/mysql"
 )

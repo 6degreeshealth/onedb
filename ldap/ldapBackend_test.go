@@ -6,7 +6,7 @@ import (
 	"net"
 	"testing"
 
-	"github.com/EndFirstCorp/onedb"
+	"github.com/6degreeshealth/onedb"
 	ldap "gopkg.in/ldap.v2"
 )
 

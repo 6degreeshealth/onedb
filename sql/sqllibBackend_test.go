@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/EndFirstCorp/onedb"
+	"github.com/6degreeshealth/onedb"
 )
 
 const connectionString string = "server=localhost;user id=gotest;password=go;database=GoTest;encrypt=disable"

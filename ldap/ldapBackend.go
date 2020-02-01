@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/EndFirstCorp/onedb"
+	"github.com/6degreeshealth/onedb"
 	"github.com/pkg/errors"
 	ldap "gopkg.in/ldap.v2"
 )
