@@ -102,8 +102,6 @@ type Txer interface {
 	PGXQuerier
 }
 
-This bad line should fail compilation.
-
 type PGXQuerier interface {
 	querier
 	onedb.DBer
